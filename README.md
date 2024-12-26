@@ -114,4 +114,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries, please contact [obedienceadara@gmail.com](mailto:obedienceadara@gmail.com).
 
 Happy Monitoring! 🚀
+
+NOTE: This README was generated with the help of AI
 ```
