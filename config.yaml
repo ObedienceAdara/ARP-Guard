@@ -1,0 +1,8 @@
+network_range: "192.168.1.0/24"
+scan_interval: 300
+database_path: "arp_guard.db"
+trusted_macs:
+  - "00:11:22:33:44:55"
+log_level: "INFO"
+log_file: "arp_guard.log"
+alert_threshold: 5
