@@ -1,7 +1,7 @@
 
-# ARPGuard - Enhanced ARP Spoofing Detection Tool
+# ARPGuard - ARP Spoofing Detection Tool
 
-`ARPGuard` is a robust Python tool designed to detect and mitigate ARP spoofing attacks on your network. It combines network scanning, packet analysis, and advanced logging to help secure your environment against potential threats.
+`ARPGuard` is a Python tool designed to detect and mitigate ARP spoofing attacks on your network. It combines network scanning, packet analysis, and advanced logging to help secure your environment against potential threats.
 
 ## Features
 
