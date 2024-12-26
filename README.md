@@ -25,8 +25,8 @@
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/obedienceadara/arp_guard.git
-cd arp_guard
+git clone https://github.com/ObedienceAdara/ARP-Guard.git
+cd ARP-Guard
 ```
 
 ---
